@@ -1,0 +1,9 @@
+* cl-opengl
+
+cl-opengl is a set of CFFI bindings to the OpenGL, GLU and GLUT APIs.
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/3b/cl-opengl.git |
+| commit  | e2d83e0                                 |
+| systems | cl-opengl cl-glu cl-glut                |
+|---------+-----------------------------------------|
